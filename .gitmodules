@@ -1,3 +1,6 @@
 [submodule "next-porto"]
 	path = next-porto
 	url = git@github.com:ainurrahms/next-porto.git
+[submodule "react-porto"]
+	path = react-porto
+	url = git@github.com:ainurrahms/react-porto.git
