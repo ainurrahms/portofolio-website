@@ -4,3 +4,6 @@
 [submodule "react-porto"]
 	path = react-porto
 	url = git@github.com:ainurrahms/react-porto.git
+[submodule "astro-porto"]
+	path = astro-porto
+	url = git@github.com:ainurrahms/astro-porto.git
